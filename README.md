@@ -1,4 +1,4 @@
-# Paperplane Alarm Clock
+# Alarm Clock
 
 A simple Alarm Clock SPA built using React.js and Redux Toolkit.
 

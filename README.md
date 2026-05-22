@@ -2,8 +2,6 @@
 
 A simple Alarm Clock SPA built using React.js and Redux Toolkit.
 
-This project was developed as part of the JavaScript Developer Assignment provided by Paperplane.
-
 ---
 
 ## Features

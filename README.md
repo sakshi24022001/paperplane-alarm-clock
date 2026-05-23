@@ -4,6 +4,12 @@ A simple Alarm Clock SPA built using React.js and Redux Toolkit.
 
 ---
 
+## Live Demo
+
+🚀 Live Project: https://alarm-clock-web.vercel.app/
+
+---
+
 ## Features
 
 - Digital Clock with current system time
@@ -153,4 +159,5 @@ Data remains available after page refresh.
 ---
 
 ## Developed By
+
 Sakshi Balodiya
